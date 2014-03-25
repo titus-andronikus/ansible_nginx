@@ -1,0 +1,10 @@
+---
+# Available vars:
+#
+#  enable_default - Enable or disable default server block
+#    Options: True or False
+#  enable_site - Enable server block for nginx, parameter is server_name in nginx
+
+site_name: test.dev
+enable_ssl: True
+site_root: /vagrant
