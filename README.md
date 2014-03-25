@@ -1,4 +1,6 @@
 ansible_nginx
 =============
 
-Nginx role
+This is basic nginx setup with Ansible.
+---------------------------------------
+
